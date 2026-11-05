@@ -2,7 +2,7 @@
 
 ## Captura 1: error `! [rejected]` al hacer `git push`
 
-![Captura 1](Imagenes2/8 del 5.png)
+![Captura 1](Imagenes2/8%20del%205.png)
 
 ## Captura 2: marcas de conflicto en el editor
 
