@@ -12,7 +12,7 @@
 
 ![Captura 3](Imagenes2/13%20del%205.png)
 
-## Pregunta de reflexión
+## Preguntas
 
 Git bloqueo mi subida porque mi compañero ya habia subido un cambio al repositorio remoto que yo no tenia en local. Si me hubiera dejado hacer el push, habria borrado su trabajo, asi que me obligo a traer primero sus cambios.
 
