@@ -10,7 +10,7 @@
 
 ## Captura 3: `equipo.md` finalizado en GitHub
 
-![Captura 3](capturas/captura3.png)
+![Captura 3](Imagenes2/13%20del%205.png)
 
 ## Pregunta de reflexión
 
