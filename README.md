@@ -6,7 +6,7 @@
 
 ## Captura 2: marcas de conflicto en el editor
 
-![Captura 2](capturas/captura2.png)
+![Captura 2](Imagenes2/10%20del%205.png)
 
 ## Captura 3: `equipo.md` finalizado en GitHub
 
